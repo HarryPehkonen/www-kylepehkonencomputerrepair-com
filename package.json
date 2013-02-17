@@ -1,5 +1,5 @@
 {
-  "name": "application-name",
+  "name": "www-kylepehkonencomputerrepair-com",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,5 +9,16 @@
     "express": "3.1.0",
     "ejs": "*",
     "less-middleware": "*"
-  }
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "5690824c80d0a57bc40054bb775277d44b41501d",
+  "description": "www-kylepehkonencomputerrepair-com ==================================",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarryPehkonen/www-kylepehkonencomputerrepair-com.git"
+  },
+  "author": "",
+  "license": "BSD"
 }
